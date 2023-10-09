@@ -2,7 +2,7 @@
 
 # Investigating Relationship Between Weather and Criminal Offense Trends in New Orleans
 
-### Hayden Outlaw, Joe Wagner | [Tulane CMPS 6790 Data Science](https://nmattei.github.io/cmps6790/) Milestone 1 | Fall 2023
+### Hayden Outlaw, Joe Wagner | [Tulane CMPS 6790 Data Science](https://nmattei.github.io/cmps6790/) | Fall 2023
 
 ### https://outlawhayden.github.io/weather-crime
 
