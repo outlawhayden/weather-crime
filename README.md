@@ -14,4 +14,4 @@ This project is an investigation into the relaitonship between weather and crimi
 - [notebooks](/notebooks) ipython notebooks for analysis
 - [milestones](/milestones) - milestone checkpoint assignments
 - [utilities](utilities) - utility functions
-- [web](web)- web hosting components
+- [web](web) - web hosting components
