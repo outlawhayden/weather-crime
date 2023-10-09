@@ -8,10 +8,10 @@
 
 This project is an investigation into the relaitonship between weather and criminal activity in New Orleans from 2011 to 2023, and made for Data Science at Tulane University for the Fall 2023 semester.
 
-- [assets]('/assets') - visual assets and images
-- [data]('/data') - data files
-- [docs]('/docs') - additional documentation, papers, and research
-- [notebooks]('/notebooks') ipython notebooks for analysis
-- [milestones]('/milestones') - milestone checkpoint assignments
-- [utilities]('utilities') - utility functions
-- [web]('web')- web hosting components
+- [assets](/assets) - visual assets and images
+- [data](/data) - data files
+- [docs](/docs) - additional documentation, papers, and research
+- [notebooks](/notebooks) ipython notebooks for analysis
+- [milestones](/milestones) - milestone checkpoint assignments
+- [utilities](utilities) - utility functions
+- [web](web)- web hosting components
